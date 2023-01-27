@@ -1,7 +1,7 @@
 ---
 title: "Arctic Snow Microstructure Experiment for the development of snow emission modelling"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2016-04-16-Arctic-Snow-Microstructure-Experiment-for-the-development-of-snow-emission-modelling
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2016-Apr-14
 venue: 'Journal 1'
