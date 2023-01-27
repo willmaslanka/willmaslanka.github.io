@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/18000327-Maslanka-Thesis
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2017-04-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 'CentAUR Thesis Deposit'
+paperurl: 'http://willmaslanka.github.io/files/18000327_Maslanka_Thesis.pdf'
+citation: 'Maslanka, W. (2017). &quot;Extinction of Microwave Radiation in Snow&quot; <i>Thesis</i>.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
