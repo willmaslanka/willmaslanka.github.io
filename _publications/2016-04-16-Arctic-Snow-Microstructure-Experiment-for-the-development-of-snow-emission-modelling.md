@@ -2,7 +2,6 @@
 title: "Arctic Snow Microstructure Experiment for the development of snow emission modelling"
 collection: publications
 permalink: /publication/2016-04-16-Arctic-Snow-Microstructure-Experiment-for-the-development-of-snow-emission-modelling
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2016-Apr-14
 venue: 'Geosci. Instrum. Method. Data Syst.'
 citation: 'Maslanka, W., Leppanen, L., Kontu, A., Sandells, M., Lemmetyinen, J., Schneebeli, M., Proksch, M., Matzl, M., Hannula, H-R., Gurney, R. (2016). &quot;Arctic Snow Microstructure Experiment for the development of snow emission modelling.&quot; <i>Geosci. Instrum. Method. Data Syst.</i>. 5, 85-94.'
