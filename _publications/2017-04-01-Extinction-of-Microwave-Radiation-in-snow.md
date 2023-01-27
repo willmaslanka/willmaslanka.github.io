@@ -1,7 +1,7 @@
 ---
 title: "Extinction of Microwave Radiation in Snow"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/18000327-Maslanka-Thesis
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2017-04-01
 venue: 'Journal 1'
