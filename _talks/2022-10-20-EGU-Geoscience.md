@@ -8,8 +8,6 @@ date: 2022-10-20
 location: "Webinar"
 ---
 
-[Redording can be found here](https://www.youtube.com/watch?v=fDvDr3rgFww)
-
 The EGU Division on Geosciences Instrumentation and Data presents a two-part discussion how scientists can best use remote sensing. The webinar featured two remote sensing specialists: Dr Will Maslanka,  spoke on discerning changes in soil mositure for flood management applications, and Dr Betsabe De la Barreda-Bautista, who discussed using remote sensing to identify the relationship between permafrost thaw and subsidence.
 
 Speakers:
@@ -24,3 +22,5 @@ Dr Betsabe De la Barreda-Bautista
 Title: Mapping permafrost thaw in Abisko, Sweden with EO data
 
 Summary: The presentation focuses on how to determine subsidence rates linked to permafrost thaw in sub-Arctic peatlands in Sweden using EO data.
+
+[Recording can be found here](https://www.youtube.com/watch?v=fDvDr3rgFww)
