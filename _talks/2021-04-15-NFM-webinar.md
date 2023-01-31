@@ -3,7 +3,7 @@ title: "Improving soil moisture estimation using drones and space radar"
 collection: talks
 type: "Webinar"
 permalink: /talks/2021-04-15-NFM-webinar
-venue: "Online"
+venue: "NERC NFM Webinar Series"
 date: 2021-04-15
 location: "Webinar"
 ---
