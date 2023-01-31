@@ -13,3 +13,5 @@ Part of the Landwise project, this study seeks to extend and refine routine, in-
 We are working with the Centre for Ecology and Hydrology (CEH) to help validate the satellite data with ground-bases radar observations, using a purpose built Radar Rig, along with other soil moisture observations. Together with soil properties measured by CEH, the observations from the field studies will be used to refine Landwise modelling predictions of land use change impacts.
 
 Our ultimate aim is that the work will lead towards the development of tools for land managers, including farmers, to help inform land management decisions, not least those around NFM.
+
+[Recording can be found here]([https://www.youtube.com/watch?v=sZu6k8W_CCw])
