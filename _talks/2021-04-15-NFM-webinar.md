@@ -14,4 +14,4 @@ We are working with the Centre for Ecology and Hydrology (CEH) to help validate 
 
 Our ultimate aim is that the work will lead towards the development of tools for land managers, including farmers, to help inform land management decisions, not least those around NFM.
 
-[Recording can be found here]([https://www.youtube.com/watch?v=sZu6k8W_CCw])
+[Recording can be found here](https://www.youtube.com/watch?v=sZu6k8W_CCw)
