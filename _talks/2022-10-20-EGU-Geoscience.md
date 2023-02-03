@@ -23,4 +23,4 @@ Title: Mapping permafrost thaw in Abisko, Sweden with EO data
 
 Summary: The presentation focuses on how to determine subsidence rates linked to permafrost thaw in sub-Arctic peatlands in Sweden using EO data.
 
-[Recording can be found here](https://www.youtube.com/watch?v=fDvDr3rgFww)
+<iframe width="420" height="315" src="https://www.youtube.com/embed/fDvDr3rgFww" frameborder="0" allowfullscreen></iframe>
