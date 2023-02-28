@@ -4,6 +4,8 @@ excerpt: "Postdoctoral Research into Satellite Remote Sensing of Soil Moisture<b
 collection: portfolio
 ---
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/B_OPkv7YLps" frameborder="0" allowfullscreen></iframe>
+
 ## LANDWISE Project outline
 LANDWISE will evaluate the effectiveness of realistic and scalable land-based NFM measures to reduce the risk from flooding from surface runoff, rivers and groundwater in groundwater-fed lowland catchments. We will study measures like crop choice, tillage practices and tree planting, that have been identified by people who own and manage land to have the greatest realisable potential. NFM measures will be evaluated for their ability to increase infiltration, evaporative losses and/or below-ground water storage, thereby helping to store precipitation to reduce surface runoff and slow down the movement of water to reduce peak levels in groundwater and rivers. However, we need to carefully examine the balance between increased infiltration, soil water storage and evaporative losses under different types of NFM measures, because long-term increases in infiltration could actually increase groundwater and river flood risk if there is less capacity within the ground and in rivers to store excess precipitation from storm events.  Also, following a review of the available research to date, other researchers (Dadson et al, 2017) came to the conclusion that land-based NFM measures would only provide effective protection against small flood events in small catchments.  As the catchment size and flood events increase, the effectiveness of land-based NFM measures in reducing flood risk would decrease significantly. However, this idea needs to be tested further.
 
@@ -25,8 +27,6 @@ We will use all the data collected from 1-3 to run modelling experiments across 
 
 ### Work Package 5: Create a web app to view and interrograte data.
 We will create web applications to display and explore the outputs from the modelling experiments. All this work will be supported by workshops, field visits, reports and resources to support people and their learning about how land-based NFM measures work and could be used to reduce flood risk.
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/B_OPkv7YLps" frameborder="0" allowfullscreen></iframe>
 
 ## My Outputs
 
