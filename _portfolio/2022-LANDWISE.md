@@ -23,13 +23,13 @@ We will collect data from sensors sitting above the ground, flying on drones and
 ### Work Package 4: Run model sumulation to test ideas.
 We will use all the data collected from 1-3 to run modelling experiments across a range of scales, linking together models that capture soil and vegetation processes, overland and groundwater flows and catchment hydrology, exploring variation in model outputs.
 
-### Work Packagew 5: Create a web app to view and interrograte data.
+### Work Package 5: Create a web app to view and interrograte data.
 We will create web applications to display and explore the outputs from the modelling experiments. All this work will be supported by workshops, field visits, reports and resources to support people and their learning about how land-based NFM measures work and could be used to reduce flood risk.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/B_OPkv7YLps" frameborder="0" allowfullscreen></iframe>
 
 ## My Outputs
 
 This is where I talk about my work within LANDWISE, and my direct outputs.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/B_OPkv7YLps" frameborder="0" allowfullscreen></iframe>
-
-[Download paper here](https://www.somewhere-nowhere.com/portfolio/landwise/)
+In addition to the traditional academic research outputs, LANDWISE also worked with photographers and poets from [somewhere-nowhere](https://www.somewhere-nowhere.com/) to produce multidiscipliary outputs, in the forms of black and white photography, poems, and reflections on NFM, Flooding, and the River Thames. You can find our collaboration [here](https://www.somewhere-nowhere.com/portfolio/landwise/), and can download the full seires of black and white photographs, reflections, and poems [here](https://www.somewhere-nowhere.com/wp-content/uploads/2022/06/Landwise-booklet-somewhere-nowhere-1.pdf).
