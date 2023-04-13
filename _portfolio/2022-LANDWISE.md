@@ -29,7 +29,14 @@ We will use all the data collected from 1-3 to run modelling experiments across 
 We will create web applications to display and explore the outputs from the modelling experiments. All this work will be supported by workshops, field visits, reports and resources to support people and their learning about how land-based NFM measures work and could be used to reduce flood risk.
 
 ## My Outputs
+My research was based primarily within Work Package 3, and focused on the investigation of surface soil moisture via Radar Remote Sensing techniques.
 
-This is where I talk about my work within LANDWISE, and my direct outputs.
+The majority of my research focused on the manipulation of Radar backscatter observations across the Thames Valley, in order to calculate a relative Surface Soil Moisture timeseries, via the [Vienna University of Technology Change Detection Model](http://willmaslanka.github.io/files/TGRS-60-4410613-2022.pdf). By comparing the radar backscatter values of an observation with the largest and smallest values within the time series, it is define the observation with respect to the wettest and driest the pixel has been.
+
+As part of this research, a relative Surface Soil Moisture timeseries was created for the Thames Valley, at multiple spatial resolutions (1000m, 500m, 250m, and 100m), between October 2015 and September 2021, [Available here](https://doi.org/10.5285/b23d63d1-dcc5-4c49-a6b5-67154f3739b7).
+
+In additon to this dataset, a novel monthly backscatter normalisation methodology was developed, for use with Sentinel-1, [as discussed here](http://willmaslanka.github.io/files/TGRS-60-4410613-2022.pdf). This novel monthly backscatter normalisation methodology was presented at [EGU General Assembly 2022](https://meetingorganizer.copernicus.org/EGU22/EGU22-9798.html).
+
+My research also focused on the development of both ground-based and UAV-based Radar backscatter remote sensing equipment, in order to generate high-resolution backscatter observations for ground-based fieldwork campaigns. My involvement included creating analysis scripts for both the ground-based and UAV-based observations, laboratory calibrations, and field-testing of equipment.
 
 In addition to the traditional academic research outputs, LANDWISE also worked with photographers and poets from [somewhere-nowhere](https://www.somewhere-nowhere.com/) to produce multidiscipliary outputs, in the forms of black and white photography, poems, and reflections on NFM, Flooding, and the River Thames. You can find our collaboration [here](https://www.somewhere-nowhere.com/portfolio/landwise/), and can download the full seires of black and white photographs, reflections, and poems [here](https://www.somewhere-nowhere.com/wp-content/uploads/2022/06/Landwise-booklet-somewhere-nowhere-1.pdf).
