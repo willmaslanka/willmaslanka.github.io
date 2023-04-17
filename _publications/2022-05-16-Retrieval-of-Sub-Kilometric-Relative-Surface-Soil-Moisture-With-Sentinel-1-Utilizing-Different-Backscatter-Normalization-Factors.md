@@ -1,5 +1,5 @@
 ---
-title: "Retrieval of Sub-Kilometric Relative Surface SoilMoisture With Sentinel-1 Utilizing Different Backscatter Normalization Factors"
+title: "Retrieval of Sub-Kilometric Relative Surface Soil Moisture With Sentinel-1 Utilizing Different Backscatter Normalization Factors"
 collection: publications
 permalink: /publication/2022-05-16-Retrieval-of-Sub-Kilometric-Relative-Surface-Soil-Moisture-With-Sentinel-1-Utilizing-Different-Backscatter-Normalization-Factors
 date: 2022-May-16
