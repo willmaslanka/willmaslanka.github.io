@@ -2,7 +2,7 @@
 title: "Estimating Emissions from High Latitude Fires: The Adapted FREM Approach"
 collection: talks
 type: "Presentation"
-permalink: /talks/2023-07-25-LeverhulmeSummerConference
+permalink: /talks/2023-09-13-NCEOConference
 venue: "NCEO Conference 2023"
 date: 2023-09-13
 location: "Leeds, UK"
