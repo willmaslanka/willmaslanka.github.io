@@ -12,5 +12,3 @@ Soil moisture is a critical component in many hydrological, agricultural, and me
 
 [Abstract can be found here](https://meetingorganizer.copernicus.org/EGU22/EGU22-9798.html)
 [Download presentation here](http://willmaslanka.github.io/files/220520_EGU_Presentation.pdf)
-
-
