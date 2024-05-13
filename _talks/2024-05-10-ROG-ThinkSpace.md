@@ -11,6 +11,6 @@ location: "Webinar"
 Fires are a globally occurring natural phenomenon, but their escalating frequency and intensity has sparked growing concern regarding their impact on human health, livelihoods, and the atmosphere. In this talk, Dr. Will Maslanka showcases how Earth Observers use both geostationary and polar-orbiting satellites to monitor and assess global wildfire activity in near real-time, to better understand where wildfire activity is changing, and what that means in terms of greenhouse gas emissions.
 
 
-[Download presentation here](http://willmaslanka.github.io/files/240510_ThinkSpaceLecture.ppt)
+[Download presentation here](http://willmaslanka.github.io/files/240510_ThinkSpaceLecture.pptx)
 
 Recording to be added soon!
