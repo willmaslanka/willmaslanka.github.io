@@ -1,6 +1,6 @@
 ---
 title: "Watching the World Burn: Satellite Insights into Global Wildfire Activity"
-collection: Talk
+collection: talks
 type: "Webinar"
 permalink: /talks/2024-05-10-ROG-ThinkSpace
 venue: "Royal Observatory Greenwich: Think Space Lecture Series"
