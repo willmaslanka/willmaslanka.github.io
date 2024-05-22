@@ -12,4 +12,4 @@ Fires are a globally occurring natural phenomenon, but their escalating frequenc
 
 [Download presentation here](http://willmaslanka.github.io/files/240510_ThinkSpaceLecture.pdf)
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=4RkbaOgf9Zc" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/4RkbaOgf9Zc" frameborder="0" allowfullscreen></iframe>
