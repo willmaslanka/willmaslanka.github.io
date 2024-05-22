@@ -2,7 +2,7 @@
 title: "Estimating Emissions from High Latitude Fires: The Adapted FREM Approach"
 collection: talks
 type: "Presentation"
-permalink: /talks/2024-05-10-ROG-ThinkSpace
+permalink: /talks/2024-05-15-LWSS-aFREM
 venue: "Leverhulme Wildfire Spring Symposium 2024"
 date: 2024-05-15
 location: "London, UK"
