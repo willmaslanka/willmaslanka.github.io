@@ -15,4 +15,4 @@ The ASMEx snow slab data were used with a flux coefficient model to calculate si
 
 The new extinction coefficient was compared to the original n-HUT extinction coefficient model, through the observation and simulation of snowpack brightness temperatures, obtained as part of the Sodankyl¨a Radiometer Experiment (SoRaX). The derived extinction coefficient produced more accurate simulated brightness temperatures at vertical polarizations, especially at 36.5 GHz. The ability to include snow specific surface area data within the n-HUT model has greatly increased its capability; by increasing the breadth of microstructure parameters to include objective observations of specific surface area, and by increasing the accuracy of simulations of the natural snowpack.
 
-[Download thesis here](http://willmaslanka.github.io/files/18000327_Maslanka_Thesis.pdf)
+[Download thesis here](https://centaur.reading.ac.uk/72703/)
