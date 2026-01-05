@@ -1,6 +1,7 @@
 ---
 title: "A radar backscatter simulation of a forest canopy using 3D physical structures derived from LiDAR scanning"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-10-08-A-radar-backscatter-simulation-of-a-forest-canopy-using-3D-physical-structures-derived-from-LIDAR-scanning
 date: 2024-Oct-08
 venue: 'Int. Journ. Remote Sens.'

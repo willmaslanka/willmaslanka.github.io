@@ -1,6 +1,7 @@
 ---
 title: "Relative surface soil moisture for the Thames Valley, United Kingdom, October 2015 to September 2021"
 collection: publications
+category: dataset
 permalink: /publication/2022-09-21-Relative-surface-soil-moisture-for-the-Thames-Valley
 date: 2022-09-21
 venue: 'CEDA'

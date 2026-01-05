@@ -1,6 +1,7 @@
 ---
 title: "X-Ray Tomography-Based Microstructure Representation in the Snow Microwave Radiative Transfer Model"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-06-15-XRay-Tomography-Based-Microstructure-Representation-in-the-Snow-Microwave-Radiative-Transfer-Model
 date: 2021-06-15
 venue: 'IEEE Trans. Geosci. Remote Sens.'

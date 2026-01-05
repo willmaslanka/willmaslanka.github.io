@@ -1,6 +1,7 @@
 ---
 title: "Using geostationary-satellite-derived sub-daily fire radiative power variability versus prescribed diurnal cycles to assess the impact of African fires on tropospheric ozone"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-12-03-Using-geostationary-satellite-derived-sub-daily-fire-radiative-power-variability-versus-prescribed-diurnal-cycles-to-assess-the-impact-of-African
 date: 2025-Dec-03
 venue: 'Atmos. Chem. Phys.'

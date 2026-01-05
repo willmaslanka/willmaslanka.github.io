@@ -1,6 +1,7 @@
 ---
 title: "Derivation and Evaluation of a New Extinction Coefficient for Use With the n-HUT Snow Emission Model"
 collection: publications
+category: manuscripts
 permalink: /publication/2019-09-25-Derivation-and-Evalulation-of-a-New-Extinction-Coefficient-for-Use-With-the-nHUT-Snow-Emission-Model
 date: 2019-09-25
 venue: 'IEEE Trans. Geosci. Remote Sens.'
