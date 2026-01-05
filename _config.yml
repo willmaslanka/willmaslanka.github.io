@@ -23,7 +23,7 @@ repository               : "willmaslanka/willmaslanka.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "WM_crop_photo.png"
   name             : "Will Maslanka"
   pronouns         : "He/Him"  
   bio              : "Research Associate in Earth Observation Science"
