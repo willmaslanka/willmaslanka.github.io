@@ -1,6 +1,7 @@
 ---
 title: "Extinction of Microwave Radiation in Snow"
 collection: publications
+category: thesis
 permalink: /publication/18000327-Maslanka-Thesis
 date: 2017-04-01
 venue: 'CentAUR Thesis Deposit'

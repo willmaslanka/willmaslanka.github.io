@@ -1,6 +1,7 @@
 ---
 title: "Arctic Snow Microstructure Experiment for the development of snow emission modelling"
 collection: publications
+category: manuscripts
 permalink: /publication/2016-04-16-Arctic-Snow-Microstructure-Experiment-for-the-development-of-snow-emission-modelling
 date: 2016-Apr-14
 venue: 'Geosci. Instrum. Method. Data Syst.'
