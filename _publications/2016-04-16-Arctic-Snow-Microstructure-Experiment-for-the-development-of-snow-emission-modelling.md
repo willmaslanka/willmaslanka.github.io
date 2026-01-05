@@ -1,0 +1,11 @@
+---
+title: "Arctic Snow Microstructure Experiment for the development of snow emission modelling"
+collection: publications
+permalink: /publication/2016-04-16-Arctic-Snow-Microstructure-Experiment-for-the-development-of-snow-emission-modelling
+date: 2016-Apr-14
+venue: 'Geosci. Instrum. Method. Data Syst.'
+citation: 'Maslanka, W., Leppanen, L., Kontu, A., Sandells, M., Lemmetyinen, J., Schneebeli, M., Proksch, M., Matzl, M., Hannula, H-R., Gurney, R. (2016). &quot;Arctic Snow Microstructure Experiment for the development of snow emission modelling.&quot; <i>Geosci. Instrum. Method. Data Syst.</i>. 5, 85-94.'
+---
+The Arctic Snow Microstructure Experiment (ASMEx) took place in Sodankylä, Finland in the winters of 2013–2014 and 2014–2015. Radiometric, macro-, and microstructure measurements were made under different experimental conditions of homogenous snow slabs, extracted from the natural seasonal taiga snowpack. Traditional and modern measurement techniques were used for snow macro- and microstructure observations. Radiometric measurements of the microwave emission of snow on reflector and absorber bases were made at frequencies 18.7, 21.0, 36.5, 89.0, and 150.0 GHz, for both horizontal and vertical polarizations. Two measurement configurations were used for radiometric measurements: a reflecting surface and an absorbing base beneath the snow slabs. Simulations of brightness temperatures using two microwave emission models, the Helsinki University of Technology (HUT) snow emission model and Microwave Emission Model of Layered Snowpacks (MEMLS), were compared to observed brightness temperatures. RMSE and bias were calculated; with the RMSE and bias values being smallest upon an absorbing base at vertical polarization. Simulations overestimated the brightness temperatures on absorbing base cases at horizontal polarization. With theother experimental conditions, the biases were small, with the exception of the HUT model 36.5 GHz simulation, which produced an underestimation for the reflector base cases. This experiment provides a solid framework for future research on the extinction of microwave radiation inside snow.
+
+[Download paper here](https://gi.copernicus.org/articles/5/85/2016/)
