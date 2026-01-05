@@ -15,16 +15,6 @@ var addressPoints = [
     -1.5437941
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
-  ],
-  [
     "Microwave Model Comparison of Snow Slab Measurements<br />University of Reading\"; Reading, UK",
     51.4514953,
     -0.9836342
@@ -55,11 +45,6 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
     "Monitoring Relative Surface Soil Moisture Using Sentinel-1 Across the River Thames Catchment<br />EGU General Assembly 2022; Austria Center Vienna, Vienna, Austria",
     48.2350803,
     16.4146333
@@ -73,11 +58,6 @@ var addressPoints = [
     "Results from the Arctic Snow Microstructure Experiment (ASMEx) 2014<br />Microsnow 1 Workshop; Reading, UK",
     51.4514953,
     -0.9836342
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
   ],
   [
     "Extinction of Microwave Radiation in Snow<br />Institute for Snow and Avalanche Research; Davos, Switzerland",
