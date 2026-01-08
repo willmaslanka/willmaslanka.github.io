@@ -13,27 +13,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. "Extinction of Microwave Radiation in Snow", Department of Meteorology, University of Reading, 2017 
+* MMet. in Meteorology with a year in Oklahoma, Department of Meteorology, University of Reading, 2013 (First Class)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 - Present: Research Associate in Earth Observation Science, Dept.of Geography, King's College London (KCL) and National Centre for Earth Observation (NCEO), UK
+  * TO BE UPDATED
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - 2022: Postdoctoral Research Assistant in Remote Sensing, Dept. of Geography, University of Reading, UK
+  * TO BE UPDATED
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 - 2019: Modelling and Forecasting Team Member, Environment Agency, UK
+  * TO BE UPDATED
+
+* 2017: Research Fellow, CORES Science and Engineering Ltd.
+  * TO BE UPDATED
   
+* 2015 - 2017: Ph.D Teaching Assistant, Dept. of Meteorology, University of Reading
+  * TO BE UPDATED
 Skills
 ======
 * Skill 1
