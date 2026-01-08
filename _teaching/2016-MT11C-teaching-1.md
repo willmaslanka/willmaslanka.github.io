@@ -4,7 +4,7 @@ collection: teaching
 type: "1st Year Undergraduate course"
 permalink: /teaching/2016-MT11C-teaching-1
 venue: "University of Reading, Dept. of Meteorology"
-date: 2015, 2016
+date: 2016-01-01
 location: "Reading, UK"
 ---
 ## Summary module description:
