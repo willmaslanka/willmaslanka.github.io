@@ -30,8 +30,6 @@ Work experience
 * 2017: Research Fellow, CORES Science and Engineering Ltd.
   * TO BE UPDATED
   
-* 2015 - 2017: Ph.D Teaching Assistant, Dept. of Meteorology, University of Reading
-  * TO BE UPDATED
 Skills
 ======
 * Skill 1
